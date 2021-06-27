@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="date">Date Time</string>
+    <string name="temp">Temperature</string>
+    <string name="desc">Weather</string>
+    <string name="no_location_detected">No Location Detected</string>
+    <string name="permission_rationale">Permission Rationale</string>
+    <string name="permission_denied_explanation">permission denied</string>
+    <string name="settings">settings</string>
+</resources>
